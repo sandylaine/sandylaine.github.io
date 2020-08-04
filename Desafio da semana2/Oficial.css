@@ -1,0 +1,98 @@
+html,body 
+{margin: 0;
+font-family: times new roman;}
+
+header 
+{background-color: #f1efef; 
+color: white;
+height:60px;
+width: 100%;
+position: fixed;
+z-index: 10;}
+
+#logo
+{width: 50px;
+position: absolute;
+top: 0px;
+margin-left: 10px;}
+
+#menu
+{float: right;
+margin-right: 5%;
+list-style:none; 
+margin-top: 10px;}
+
+#imagem_fundo 
+{background: url("img/clouds-3487234_1920.jpg");
+height : 100%;
+text-align: center;
+background-size: cover;}
+
+#titulo 
+{color:#ffffff;
+padding-top: 20%;
+font-size: 70px;
+line-height: 1;
+text-shadow: #ffffff;}
+
+#subtitulo 
+{color:#ffffff;
+padding-left: 20%;
+padding-right: 20%;}
+
+li{float: left;
+padding: 10px; 20px; 10px; 20px;}
+
+li:hover 
+{background-color: rgb(240, 98, 32);}
+
+#acao
+{color: #ffffff;
+border: 1px white solid;
+padding: 10px 20px 10px 20px;}
+
+.destaque
+{background-color:#f1efef;}
+
+section 
+{padding: 20px;
+float: left;}
+
+.icone
+{width: 51px;}
+
+.imgeco
+{width: 80%;
+height: 30%;}
+
+.coluna
+{float: left;
+padding: 0 5%;
+position: relative;}
+
+
+.dois
+{width: 40%;}
+
+.tres
+{width: 29%;
+padding: 0 2%;}
+
+.quatro
+{width: 15%;}
+
+.justificado
+{text-align: justify;}
+
+.centralizado
+{text-align: center;}
+
+footer
+{background-color: rgb(240, 98, 32);
+width: 100%;
+float: left;
+margin: 0 auto;
+overflow:hidden;
+padding:40px 20px 50px;
+color:#ffffff}
+ 
